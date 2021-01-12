@@ -31,3 +31,5 @@ GNU C Library (Ubuntu GLIBC 2.27-3ubuntu1.2) stable release version 2.27
 |8.18 to 8.23             |     patch-8.18-8.23    |
 |8.24 to 8.29             |     patch-8.24-8.29    |
 |8.30 and newer           |     builds without patching    |
+
+实际上，glibc2.27的话，8.1及之后应该就不用patch了。

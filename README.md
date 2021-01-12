@@ -1,12 +1,17 @@
 # coreutils-patches
 在较新的glibc环境中编译旧版本的coreutils所需的patch.
+
 Patches for old gnu coreutils versions to build on newer glibc environments.
+
 在[Ref](https://lists.gnu.org/archive/html/coreutils/2019-08/msg00011.html)基础上添加了对5.93版本的支持。
 
 # 测试环境
 Linux 5.4.0-59-generic
+
 Ubuntu 18.04.5 LTS
+
 gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04)
+
 GNU C Library (Ubuntu GLIBC 2.27-3ubuntu1.2) stable release version 2.27
 
 # 对应关系

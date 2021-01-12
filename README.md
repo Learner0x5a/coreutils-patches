@@ -14,7 +14,7 @@ gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04)
 
 GNU C Library (Ubuntu GLIBC 2.27-3ubuntu1.2) stable release version 2.27
 
-# 对应关系
+# 对应关系(glibc 2.28)
 
 | Coreutils Versions      |       Patch file |
 |  ----                   |       ----       |
